@@ -10,3 +10,5 @@ In the project directory, you can run:
 
 ### `yarn create react-app letmeask --template typescript`
 ### `yarn add firebase`
+
+### `npm -g i sass`
