@@ -1,14 +1,12 @@
-# Getting Started with Create React App
+# NLW #6 TOGETHER - Fórum Let Me Asks
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
+## Comandos de desenvolvimento
 ### `npm start`
 
 ### `yarn create react-app letmeask --template typescript`
 ### `yarn add firebase`
 
 ### `npm -g i sass`
+
+### `yarn add react-router-dom`
+### `yarn add @types/react-router-dom -D`
